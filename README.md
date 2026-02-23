@@ -32,3 +32,15 @@
 ![SQL](https://img.shields.io/badge/SQL-Advanced-lightgrey)
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green)
+
+---
+
+## 📊 GitHub Stats
+
+![Ch Sajid Mansoor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaudharysajid007&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=chaudharysajid007&theme=tokyonight)
