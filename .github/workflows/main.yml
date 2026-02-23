@@ -1,0 +1,24 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: chaudharysajid007
+          output: github-contribution-grid-snake.svg
+
+      - name: Commit SVG
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update Snake
+          file_pattern: github-contribution-grid-snake.svg
