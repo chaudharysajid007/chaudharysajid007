@@ -1,5 +1,6 @@
-<h1 align="center">Ch Sajid Mansoor</h1>
-<h3 align="center">Full Stack Developer | Multi-Language Programmer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Ch+Sajid+Mansoor;Full+Stack+Developer;C+%7C+C%2B%2B+%7C+Python+%7C+Java;Web+Developer+%7C+Backend+%7C+Databases;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
