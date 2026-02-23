@@ -50,4 +50,4 @@
 
 ## 🐍 Contribution Snake
 
-![Snake](https://github.com/chaudharysajid007/chaudharysajid007/blob/main/github-contribution-grid-snake.svg)
+![Snake](https://github-readme-stats.vercel.app/api/wakatime?username=chaudharysajid007&theme=dark&layout=compact)
