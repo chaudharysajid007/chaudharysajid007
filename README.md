@@ -45,3 +45,9 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chaudharysajid007&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake](https://github.com/chaudharysajid007/chaudharysajid007/blob/main/github-contribution-grid-snake.svg)
