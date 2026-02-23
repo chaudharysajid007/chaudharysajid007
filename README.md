@@ -50,4 +50,4 @@
 
 ## 🐍 Contribution Snake
 
-![Snake](https://github.com/chaudharysajid007/chaudharysajid007/blob/main/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/Platane/snk/master/img/snake.svg)
